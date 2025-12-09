@@ -142,7 +142,7 @@ const LANGUAGES = {
 			'meta.twitter_description': 'NodeCrypt 是一个端到端加密的开源聊天系统，所有加密解密均在客户端本地完成，服务器无法获取明文。',
 			
 			// Login and main UI
-			'ui.enter_node': '爽哥的聊天圣地',
+			'ui.enter_node': '加密聊天',
 			'ui.username': '用户名',
 			'ui.node_name': '频道名称',
 			'ui.node_password': '频道密码',
